@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="frases">
+        <item>Acredite no seu potencial. Ele é ilimitado.</item>
+        <item>Comece onde você está. Use o que você tem. Faça o que você pode.</item>
+        <item>Seja a mudança que você deseja ver no mundo.</item>
+        <item>O sucesso é a soma de pequenos esforços repetidos dia após dia.</item>
+        <item>Nunca é tarde para ser quem você poderia ter sido.</item>
+        <item>A persistência realiza o impossível.</item>
+        <item>Sua única limitação é aquela que você impõe a si mesmo.</item>
+        <item>Grandes coisas nunca vêm de zonas de conforto.</item>
+        <item>A vida é 10% o que acontece com você e 90% como você reage a isso.</item>
+        <item>O futuro pertence àqueles que acreditam na beleza de seus sonhos.</item>
+        <item>Cada novo dia é uma nova chance de mudar sua vida.</item>
+        <item>Não espere por oportunidades, crie-as.</item>
+        <item>A felicidade não é um destino, é uma jornada.</item>
+        <item>Transforme seus obstáculos em degraus.</item>
+        <item>A gratidão transforma o que temos em suficiente.</item>
+        <item>O impossível é apenas uma grande palavra jogada por pessoas pequenas que acham mais fácil viver no mundo que lhes foi dado do que explorar o poder que têm para mudá-lo.</item>
+        <item>Faça hoje o que os outros não fazem, e amanhã você terá o que os outros não têm.</item>
+        <item>A força não vem da capacidade física, mas de uma vontade indomável.</item>
+        <item>Seja gentil, pois cada pessoa que você encontra está travando uma batalha difícil.</item>
+        <item>O único lugar onde o sucesso vem antes do trabalho é no dicionário.</item>
+        <item>A vida encolhe ou expande em proporção à sua coragem.</item>
+        <item>Não conte os dias, faça os dias contarem.</item>
+        <item>A inspiração existe, mas tem que te encontrar trabalhando.</item>
+        <item>A maior glória em viver não reside em nunca cair, mas em se levantar a cada queda.</item>
+        <item>O otimismo é a fé que leva à realização. Nada pode ser feito sem esperança e confiança.</item>
+        <item>Ação é a chave fundamental para todo sucesso.</item>
+        <item>Você é mais forte do que pensa.</item>
+        <item>A mente é tudo. O que você pensa, você se torna.</item>
+        <item>Não desista, o começo é sempre o mais difícil.</item>
+        <item>Acredite que você pode, e você estará no meio do caminho.</item>
+        <item>O segredo de ir em frente é começar.</item>
+        <item>Sua atitude determina sua direção.</item>
+        <item>A vida é um eco. O que você envia, volta. O que você planta, colhe.</item>
+        <item>A melhor maneira de prever o futuro é criá-lo.</item>
+        <item>Não há atalhos para qualquer lugar que valha a pena ir.</item>
+        <item>Seja a luz em um mundo de escuridão.</item>
+        <item>Pequenos passos na direção certa são melhores do que grandes passos na direção errada.</item>
+        <item>A verdadeira felicidade está em encontrar alegria nas pequenas coisas.</item>
+        <item>O que você faz hoje pode melhorar todos os seus amanhãs.</item>
+        <item>A disciplina é a ponte entre metas e realizações.</item>
+        <item>Não lamente o passado, construa o futuro.</item>
+        <item>Cada dia é uma página em branco para sua história.</item>
+        <item>A resiliência é a arte de se adaptar e florescer.</item>
+        <item>O sucesso não é definitivo, o fracasso não é fatal: é a coragem de continuar que conta.</item>
+        <item>A paciência é amarga, mas seus frutos são doces.</item>
+        <item>A mudança é a única constante na vida. Abrace-a.</item>
+        <item>O conhecimento é poder.</item>
+        <item>Seja grato pelo que você tem, enquanto trabalha pelo que você quer.</item>
+        <item>A jornada de mil milhas começa com um único passo.</item>
+        <item>O que não te desafia, não te transforma.</item>
+        <item>Sua vida não melhora por acaso, melhora por mudança.</item>
+        <item>A mente que se abre a uma nova ideia jamais volta ao seu tamanho original.</item>
+        <item>O sucesso não é a chave para a felicidade. A felicidade é a chave para o sucesso.</item>
+        <item>Não tenha medo de falhar. Tenha medo de não tentar.</item>
+        <item>A vida é sobre criar seu próprio brilho.</item>
+        <item>Não se compare com os outros. Compare-se com quem você era ontem.</item>
+        <item>A bondade é uma linguagem que o surdo pode ouvir e o cego pode ver.</item>
+        <item>O valor de uma ideia está em sua execução.</item>
+        <item>A persistência é o caminho do êxito.</item>
+        <item>Acredite que coisas boas estão a caminho.</item>
+        <item>O que você pensa, você atrai.</item>
+        <item>A vida é curta demais para não ser feliz.</item>
+        <item>Cerque-se de pessoas que te elevam.</item>
+        <item>Seja a energia que você quer atrair.</item>
+        <item>O maior risco é não correr risco algum.</item>
+        <item>A beleza está nos olhos de quem vê.</item>
+        <item>A simplicidade é a chave da verdadeira elegância.</item>
+        <item>O tempo é o seu recurso mais valioso. Use-o com sabedoria.</item>
+        <item>Aprenda com os erros, mas não se prenda a eles.</item>
+        <item>A felicidade é uma escolha.</item>
+        <item>A vida é uma aventura ousada ou nada.</item>
+        <item>Seja a melhor versão de si mesmo.</item>
+        <item>O amor é a resposta, não importa a pergunta.</item>
+        <item>A esperança é a última que morre.</item>
+        <item>Não importa o quão devagar você vá, desde que não pare.</item>
+        <item>A verdadeira riqueza é a saúde e a paz de espírito.</item>
+        <item>A autenticidade é seu superpoder.</item>
+        <item>O sucesso é um estado de espírito.</item>
+        <item>A gentileza é contagiosa. Espalhe-a.</item>
+        <item>A vida é um presente. Desfrute-o.</item>
+        <item>O que é para ser seu, encontrará um caminho.</item>
+        <item>Acredite na magia dos novos começos.</item>
+        <item>Seja a razão pela qual alguém sorri hoje.</item>
+        <item>A criatividade é a inteligência se divertindo.</item>
+        <item>O fracasso é apenas uma oportunidade para recomeçar com mais inteligência.</item>
+        <item>A vida é como andar de bicicleta. Para manter o equilíbrio, você deve continuar em movimento.</item>
+        <item>A paz começa com um sorriso.</item>
+        <item>O propósito da vida é uma vida de propósito.</item>
+        <item>A liberdade é a capacidade de escolher.</item>
+        <item>Não se preocupe com o que os outros pensam.</item>
+        <item>A vida é uma tela em branco, e você é o artista.</item>
+        <item>A coragem não é a ausência de medo, mas o triunfo sobre ele.</item>
+        <item>O único modo de fazer um excelente trabalho é amar o que você faz.</item>
+        <item>A felicidade é um perfume que você não pode derramar sobre os outros sem obter algumas gotas em si mesmo.</item>
+        <item>A vida é uma jornada, não um destino.</item>
+        <item>Seja a inspiração para alguém.</item>
+        <item>O que você foca, se expande.</item>
+        <item>A persistência é a mãe do sucesso.</item>
+        <item>A vida é uma dança entre o que você quer e o que você tem.</item>
+        <item>Acredite no poder dos seus sonhos.</item>
+        <item>O tempo cura quase tudo. Dê tempo ao tempo.</item>
+        <item>A vida é feita de momentos. Aproveite-os.</item>
+        <item>A gratidão é a memória do coração.</item>
+        <item>O sucesso é construído tijolo por tijolo.</item>
+        <item>Seja a sua própria luz.</item>
+        <item>A vida é um presente, e cada dia é uma nova página.</item>
+        <item>Não há elevador para o sucesso, você tem que pegar as escadas.</item>
+        <item>A maior aventura que você pode ter é viver a vida dos seus sonhos.</item>
+        <item>O que você dá, você recebe.</item>
+        <item>A vida é um jardim. Plante sementes de bondade.</item>
+        <item>A mudança é inevitável. O crescimento é opcional.</item>
+        <item>A vida é uma jornada de aprendizado contínuo.</item>
+        <item>Seja a diferença que você quer ver.</item>
+        <item>O que você resiste, persiste. O que você aceita, transforma.</item>
+        <item>A vida é um eco. O que você envia, volta.</item>
+        <item>Acredite em si mesmo, e todo o resto se encaixará.</item>
+        <item>O propósito da vida é viver, e viver é experimentar.</item>
+        <item>A vida é uma oportunidade, aproveite-a.</item>
+        <item>A vida é uma beleza, admire-a.</item>
+        <item>A vida é um sonho, realize-o.</item>
+        <item>A vida é um desafio, enfrente-o.</item>
+        <item>A vida é um jogo, jogue-o.</item>
+        <item>A vida é uma promessa, cumpra-a.</item>
+        <item>A vida é amor, desfrute-o.</item>
+        <item>A vida é um hino, cante-o.</item>
+        <item>A vida é uma tragédia, enfrente-a.</item>
+        <item>A vida é uma aventura, ouse-a.</item>
+        <item>A vida é sorte, faça-a.</item>
+        <item>A vida é preciosa, cuide-a.</item>
+        <item>A vida é vida, lute por ela.</item>
+        <item>O sucesso é a soma de pequenos esforços.</item>
+        <item>A vida é uma jornada, aproveite a paisagem.</item>
+        <item>Acredite no poder da sua mente.</item>
+        <item>Não se contente com menos do que você merece.</item>
+        <item>A vida é um presente, desembrulhe-o.</item>
+        <item>O que você alimenta, cresce.</item>
+        <item>A vida é uma melodia, dance com ela.</item>
+        <item>Seja a sua própria inspiração.</item>
+        <item>O sucesso é uma escolha.</item>
+        <item>A vida é um quebra-cabeça, monte-o.</item>
+        <item>Acredite que o melhor ainda está por vir.</item>
+        <item>A vida é uma arte, pinte-a.</item>
+        <item>O que você faz hoje, ecoa na eternidade.</item>
+        <item>A vida é um espelho. Ela reflete o que você é.</item>
+        <item>Seja a mudança que você quer ver no mundo.</item>
+        <item>A vida é um livro. Cada dia é uma nova página.</item>
+        <item>O que você pensa, você se torna.</item>
+        <item>A vida é um jardim. Cultive a felicidade.</item>
+        <item>Acredite no seu valor.</item>
+        <item>A vida é uma canção. Cante-a com o coração.</item>
+        <item>O que você não usa, você perde.</item>
+        <item>A vida é uma oportunidade. Agarre-a.</item>
+        <item>Seja grato pelas pequenas coisas.</item>
+        <item>A vida é uma aventura. Viva-a ao máximo.</item>
+        <item>O que você busca, está buscando você.</item>
+        <item>A vida é um presente. Abra-o com alegria.</item>
+        <item>Acredite no seu poder de transformar.</item>
+        <item>A vida é uma jornada. Desfrute de cada passo.</item>
+        <item>O que você planta, você colhe.</item>
+        <item>A vida é um rio. Deixe-se levar pela corrente.</item>
+        <item>Seja a sua própria heroína/herói.</item>
+        <item>A vida é um milagre. Celebre-o.</item>
+        <item>O que você sonha, você pode realizar.</item>
+        <item>A vida é uma dança. Dance como se ninguém estivesse olhando.</item>
+        <item>Acredite na sua capacidade de superar.</item>
+        <item>A vida é um presente. Não o desperdice.</item>
+        <item>O que você ama, você se torna.</item>
+        <item>A vida é uma tela. Pinte sua obra-prima.</item>
+        <item>Seja a sua própria luz guia.</item>
+        <item>A vida é um eco. O que você envia, volta.</item>
+        <item>O que você faz, faz a diferença.</item>
+        <item>A vida é uma melodia. Crie sua própria harmonia.</item>
+        <item>Acredite no seu destino.</item>
+        <item>A vida é uma jornada. Faça valer a pena.</item>
+        <item>O que você deseja, você atrai.</item>
+        <item>A vida é um presente. Valorize-o.</item>
+        <item>Seja a sua própria inspiração.</item>
+        <item>A vida é uma oportunidade. Agarre-a com as duas mãos.</item>
+        <item>O que você foca, se expande.</item>
+        <item>A vida é um jardim. Plante sementes de sucesso.</item>
+        <item>Acredite no seu poder de manifestação.</item>
+        <item>A vida é uma dança. Deixe a música te guiar.</item>
+        <item>O que você dá, você recebe em dobro.</item>
+        <item>A vida é um presente. Desfrute de cada momento.</item>
+        <item>Seja a sua própria estrela.</item>
+        <item>A vida é uma jornada. Explore cada caminho.</item>
+        <item>O que você pensa, você cria.</item>
+        <item>A vida é um presente. Agradeça por ele.</item>
+        <item>Acredite na sua intuição.</item>
+        <item>A vida é uma canção. Cante sua própria melodia.</item>
+        <item>O que você não tenta, você nunca saberá.</item>
+        <item>A vida é uma oportunidade. Transforme-a em algo grandioso.</item>
+        <item>Seja a sua própria motivação.</item>
+        <item>A vida é um espelho. Sorria para ela.</item>
+        <item>O que você faz, define quem você é.</item>
+        <item>A vida é um presente. Viva-o intensamente.</item>
+        <item>Acredite no seu potencial ilimitado.</item>
+        <item>A vida é uma jornada. Aproveite a viagem.</item>
+        <item>O que você busca, está buscando você.</item>
+        <item>A vida é um presente. Compartilhe-o.</item>
+        <item>Seja a sua própria luz.</item>
+        <item>A vida é uma oportunidade. Faça a diferença.</item>
+        <item>O que você sonha, você realiza.</item>
+        <item>A vida é um presente. Desembrulhe-o com entusiasmo.</item>
+        <item>Acredite na sua força interior.</item>
+        <item>A vida é uma jornada. Faça dela uma obra-prima.</item>
+        <item>O que você planta, você colhe.</item>
+        <item>A vida é um presente. Celebre-o todos os dias.</item>
+        <item>Seja a sua própria inspiração.</item>
+        <item>A vida é uma oportunidade. Crie seu próprio destino.</item>
+        <item>O que você pensa, você atrai.</item>
+        <item>A vida é um presente. Viva-o com paixão.</item>
+        <item>Acredite no seu poder de superação.</item>
+        <item>A vida é uma jornada. Aprenda e cresça.</item>
+        <item>O que você dá, você recebe.</item>
+        <item>A vida é um presente. Desfrute de cada respiração.</item>
+        <item>Seja a sua própria luz.</item>
+        <item>A vida é uma oportunidade. Agarre-a sem medo.</item>
+        <item>O que você foca, se expande.</item>
+        <item>A vida é um presente. Abrace-o.</item>
+        <item>Acredite no seu valor.</item>
+        <item>A vida é uma jornada. Faça novas descobertas.</item>
+        <item>O que você deseja, você manifesta.</item>
+        <item>A vida é um presente. Desfrute de cada momento.</item>
+        <item>Seja a sua própria motivação.</item>
+        <item>A vida é uma oportunidade. Faça acontecer.</item>
+        <item>O que você faz, faz a diferença.</item>
+        <item>A vida é um presente. Viva-o com gratidão.</item>
+        <item>Acredite no seu potencial.</item>
+        <item>A vida é uma jornada. Siga em frente.</item>
+        <item>O que você busca, você encontra.</item>
+        <item>A vida é um presente. Receba-o com alegria.</item>
+        <item>Seja a sua própria estrela.</item>
+        <item>A vida é uma oportunidade. Realize seus sonhos.</item>
+        <item>O que você pensa, você se torna.</item>
+        <item>A vida é um presente. Viva-o com propósito.</item>
+        <item>Acredite no seu poder.</item>
+        <item>A vida é uma jornada. Aproveite cada paisagem.</item>
+        <item>O que você planta, você colhe.</item>
+        <item>A vida é um presente. Celebre cada dia.</item>
+        <item>Seja a sua própria inspiração.</item>
+        <item>A vida é uma oportunidade. Crie sua própria sorte.</item>
+        <item>O que você dá, você recebe.</item>
+        <item>A vida é um presente. Desfrute de cada instante.</item>
+        <item>Acredite no seu potencial ilimitado.</item>
+        <item>A vida é uma jornada. Faça dela uma aventura.</item>
+        <item>O que você deseja, você atrai.</item>
+        <item>A vida é um presente. Agradeça por cada amanhecer.</item>
+        <item>Seja a sua própria luz.</item>
+        <item>A vida é uma oportunidade. Faça valer a pena.</item>
+        <item>O que você sonha, você pode alcançar.</item>
+        <item>A vida é um presente. Desembrulhe-o com curiosidade.</item>
+        <item>Acredite na sua força interior.</item>
+        <item>A vida é uma jornada. Cresça a cada passo.</item>
+        <item>O que você busca, está buscando você.</item>
+        <item>A vida é um presente. Compartilhe-o com amor.</item>
+        <item>Seja a sua própria heroína/herói.</item>
+        <item>A vida é uma oportunidade. Transforme desafios em vitórias.</item>
+        <item>O que você pensa, você cria.</item>
+        <item>A vida é um presente. Viva-o com alegria.</item>
+        <item>Acredite no seu poder de superação.</item>
+        <item>A vida é uma jornada. Aprenda com cada experiência.</item>
+        <item>O que você dá, você recebe em abundância.</item>
+        <item>A vida é um presente. Desfrute de cada momento.</item>
+        <item>Seja a sua própria inspiração.</item>
+        <item>A vida é uma oportunidade. Agarre-a com coragem.</item>
+        <item>O que você foca, se expande.</item>
+        <item>A vida é um presente. Abrace-o com gratidão.</item>
+        <item>Acredite no seu valor.</item>
+        <item>A vida é uma jornada. Faça novas descobertas.</item>
+        <item>O que você deseja, você manifesta.</item>
+        <item>A vida é um presente. Desfrute de cada dia.</item>
+        <item>Seja a sua própria motivação.</item>
+        <item>A vida é uma oportunidade. Faça acontecer.</item>
+        <item>O que você faz, faz a diferença.</item>
+        <item>A vida é um presente. Viva-o com propósito.</item>
+        <item>Acredite no seu potencial.</item>
+        <item>A vida é uma jornada. Siga em frente.</item>
+        <item>O que você busca, você encontra.</item>
+        <item>A vida é um presente. Receba-o com alegria.</item>
+        <item>Seja a sua própria estrela.</item>
+        <item>A vida é uma oportunidade. Realize seus sonhos.</item>
+        <item>O que você pensa, você se torna.</item>
+        <item>A vida é um presente. Viva-o com paixão.</item>
+        <item>Acredite no seu poder.</item>
+        <item>A vida é uma jornada. Aproveite cada paisagem.</item>
+        <item>O que você planta, você colhe.</item>
+        <item>A vida é um presente. Celebre cada dia.</item>
+        <item>Seja a sua própria inspiração.</item>
+        <item>A vida é uma oportunidade. Crie sua própria sorte.</item>
+        <item>O que você dá, você recebe.</item>
+        <item>A vida é um presente. Desfrute de cada instante.</item>
+        <item>Acredite no seu potencial ilimitado.</item>
+        <item>A vida é uma jornada. Faça dela uma aventura.</item>
+        <item>O que você deseja, você atrai.</item>
+        <item>A vida é um presente. Agradeça por cada amanhecer.</item>
+        <item>Seja a sua própria luz.</item>
+        <item>A vida é uma oportunidade. Faça valer a pena.</item>
+        <item>O que você sonha, você pode alcançar.</item>
+        <item>A vida é um presente. Desembrulhe-o com curiosidade.</item>
+        <item>Acredite na sua força interior.</item>
+        <item>A vida é uma jornada. Cresça a cada passo.</item>
+        <item>O que você busca, está buscando você.</item>
+        <item>A vida é um presente. Compartilhe-o com amor.</item>
+        <item>Seja a sua própria heroína/hero.</item>
+        <item>A vida é uma oportunidade. Transforme desafios em vitórias.</item>
+        <item>O que você pensa, você cria.</item>
+        <item>A vida é um presente. Viva-o com alegria.</item>
+        <item>Acredite no seu poder de superação.</item>
+        <item>A vida é uma jornada. Aprenda com cada experiência.</item>
+        <item>O que você dá, você recebe em abundância.</item>
+        <item>A vida é um presente. Desfrute de cada momento.</item>
+        <item>Seja a sua própria inspiração.</item>
+        <item>A vida é uma oportunidade. Agarre-a com coragem.</item>
+        <item>O que você foca, se expande.</item>
+        <item>A vida é um presente. Abrace-o com gratidão.</item>
+        <item>Acredite no seu valor, sempre.</item>
+    </array>
+</resources>
