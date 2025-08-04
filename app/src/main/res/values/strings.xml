@@ -3,6 +3,7 @@
     <string name="txtTitle">Sua dose de motivação diária</string>
     <string name="btnGenerator">Frase do dia</string>
     <string name="txtAbout">Aplicativo criado para fins de estudos.</string>
+    <string name="txtMessage">Aqui irá aparecer a mensagem</string>
 
     <string-array name="frases_motivacionais">
         <item>Acredite no seu potencial. Ele é ilimitado.</item>
