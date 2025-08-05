@@ -46,4 +46,4 @@ Antônio Azevedo
 ## **Fonte de Aprendizado:**
 **Autor:** Tiago Aguiar
 
-**Fonte:** Esse projeto foi desenvolvido como um exercício prático com base no tutorial do _**Youtube**_ - Título do vídeo: Curso de Android com Kotlin 2025 | Para Iniciantes | _**Link:**_  <a href="http://www.youtube.com/watch?v=xCb-O3qVM5Y" target="_blank">Curso de Android com Kotlin 2025 | Para Iniciantes</a>
+**Fonte:** Esse projeto foi desenvolvido como um exercício prático com base no tutorial do _**Youtube - Link:**_  <a href="http://www.youtube.com/watch?v=xCb-O3qVM5Y" target="_blank">Curso de Android com Kotlin 2025 | Para Iniciantes</a>
